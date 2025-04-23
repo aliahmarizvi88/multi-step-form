@@ -1,6 +1,6 @@
 # 📄 React Multi-Step-Form
 
-A sleek and responsive **Image Gallery App** built with **React.js** that fetches and displays images using the **Pixabay API**. This project was created to practice working with third-party APIs, search functionality, and managing data with **React Hooks**.
+A sleek and responsive **Multi Step Form** built with **React.js** that uses **MUI ELEMENT**. This project was created to practice material MUI, and managing data with **React Hooks**.
 
 ---
 
